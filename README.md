@@ -1,4 +1,4 @@
-# All images generated with [Sora AI](https://sora.chatgpt.com/)
+# All images generated with [Sora AI](https://sora.chatgpt.com/) using my profile photo
 ### 1. Cinematic Hyper-Detailed Plastic Aesthetic Style
 <img src="./cinematic-hyper-detailed-plastic-aesthetic.webp" alt="Cinematic Style" width="300"/>
 
